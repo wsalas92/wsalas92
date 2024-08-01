@@ -1,6 +1,6 @@
 ## Hello there 👋 I'm Wilfred Salas Jr. [LinkedIn](https://www.linkedin.com/in/wilfredsalasjr/)
 
-I am an accomplished philanthropic and nonprofit professional currently becoming a business intelligence analyst. I am adept at harnessing data-driven insights to enhance operational efficiency, coordinating team processes for refined efficiency, and executing long-term strategic plans. Skilled in translating complex data into actionable strategies, I'm passionate about aiding organizations in making well-informed, future-oriented decisions. I thrive in collaborative settings and remain dedicated to keeping up with the latest trends in data analytics, nonprofits, and philanthropy. I am always eager to apply my expertise and make a significant impact in important ventures.
+I am a Business Intelligence Analyst with 5+ years of experience in driving growth for 501(c)3 organizations. I am adept at harnessing data-driven insights to enhance operational efficiency, coordinating team processes for refined efficiency, and executing long-term strategic plans. Skilled in translating complex data into actionable strategies, I'm passionate about aiding organizations in making well-informed, future-oriented decisions. I thrive in collaborative settings and remain dedicated to keeping up with the latest trends in data analytics, nonprofits, and philanthropy. I am always eager to apply my expertise and make a significant impact in important ventures.
 
 ## Projects
 
